@@ -1,0 +1,12 @@
+<div class="b-container-fluid chat-view-container">
+  <ContactList class="chat-view-left"></ContactList>
+  <div class="chat-view-right">
+    <div class="selected-chat-partner" v-if="selectedChatPartner">
+      <ContactUser 
+        :user="selectedChatPartner"
+      />
+    </div>
+    <MessageFeed></MessageFeed>
+    <NewMessage></NewMessage>
+  </div>
+</div>

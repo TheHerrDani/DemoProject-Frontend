@@ -1,0 +1,69 @@
+{
+    "users": [
+        {
+            "id": 0,
+            "fullName": "Anna Jones",
+            "emailAddress": "Anna@email.com"
+        },
+        {
+            "id": 1,
+            "fullName": "Bella Williams",
+            "emailAddress": "Bella@email.com"
+        },
+        {
+            "id": 2,
+            "fullName": "Ciri Zireael",
+            "emailAddress": "Ciri@email.com"
+        },
+        {
+            "id": 3,
+            "fullName": "Dennis Taylor",
+            "emailAddress": "Dennis@email.com"
+        },
+        {
+            "id": 4,
+            "fullName": "Emil O'Brien",
+            "emailAddress": "Emil@email.com"
+        },
+        {
+            "id": 5,
+            "fullName": "Fanny Evans",
+            "emailAddress": "Fanny@email.com"
+        },
+        {
+            "id": 6,
+            "fullName": "George Orwell",
+            "emailAddress": "George@email.com"
+        },
+        {
+            "id": 7,
+            "fullName": "Hugo Boss",
+            "emailAddress": "Hugo@email.com"
+        },
+        {
+            "id": 8,
+            "fullName": "Isaac Newton",
+            "emailAddress": "Isaac@email.com"
+        },
+        {
+            "id": 9,
+            "fullName": "John Doe",
+            "emailAddress": "John@email.com"
+        },
+        {
+            "id": 10,
+            "fullName": "Kevin Costner",
+            "emailAddress": "Kevin@email.com"
+        },
+        {
+            "id": 11,
+            "fullName": "Leo DiCaprio",
+            "emailAddress": "Leo@email.com"
+        },
+        {
+            "id": 12,
+            "fullName": "Michelangelo Buonarroti",
+            "emailAddress": "Michelangelo@email.com"
+        }
+    ]
+}

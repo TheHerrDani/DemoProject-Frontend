@@ -1,0 +1,67 @@
+{
+    "messages": [
+        {
+            "id": 0,
+            "message": "hi Anna! What's up?",
+            "from": "norakrajla@gmail.com",
+            "to": "Anna@email.com",
+            "insertionDate": "2022-05-22T21:38:53.422Z"
+        },
+        {
+            "id": 1,
+            "message": "hello Nora! I'm dying...",
+            "from": "Anna@email.com",
+            "to": "norakrajla@gmail.com",
+            "insertionDate": "2022-05-22T21:38:59.984Z"
+        },
+        {
+            "id": 2,
+            "message": "why?",
+            "from": "norakrajla@gmail.com",
+            "to": "Anna@email.com",
+            "insertionDate": "2022-05-22T21:43:41.367Z"
+        },
+        {
+            "id": 3,
+            "message": "I have a lot of work and my cats are sick",
+            "from": "Anna@email.com",
+            "to": "norakrajla@gmail.com",
+            "insertionDate": "2022-05-22T21:44:20.820Z"
+        },
+        {
+            "id": 4,
+            "message": "oh that sounds bad. Have you been to the vet?",
+            "from": "norakrajla@gmail.com",
+            "to": "Anna@email.com",
+            "insertionDate": "2022-05-22T21:45:09.765Z"
+        },
+        {
+            "id": 5,
+            "message": "Yes, several times. We got medicines and new catfood",
+            "from": "Anna@email.com",
+            "to": "norakrajla@gmail.com",
+            "insertionDate": "2022-05-22T21:46:08.053Z"
+        },
+        {
+            "id": 6,
+            "message": "how can I help?",
+            "from": "norakrajla@gmail.com",
+            "to": "Anna@email.com",
+            "insertionDate": "2022-05-22T21:46:44.628Z"
+        },
+        {
+            "id": 7,
+            "message": "Come over and let's play with the cats. I have VINE!! Also I wanted to ask you about your trip to Spain. How was the scuba diving? Did you see a turtle or an octopus?",
+            "from": "Anna@email.com",
+            "to": "norakrajla@gmail.com",
+            "insertionDate": "2022-05-22T21:47:35.043Z"
+        },
+        {
+            "id": 8,
+            "message": "On my way! Xoxoxo",
+            "from": "norakrajla@gmail.com",
+            "to": "Anna@email.com",
+            "insertionDate": "2022-05-22T21:48:06.952Z"
+        }
+    ]
+}

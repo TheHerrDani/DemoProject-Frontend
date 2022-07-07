@@ -1,0 +1,20 @@
+table {
+  font-size: 13px;
+  text-align: left;
+}
+.table-sm th, .table-sm td {
+  padding-right: 0.5rem;
+}
+
+th span { 
+  padding-right: 8px;
+}
+
+th svg {
+  cursor: pointer;
+  border-radius: 100%;
+}
+
+th svg:hover {
+  background-color: #dee2e6;
+}

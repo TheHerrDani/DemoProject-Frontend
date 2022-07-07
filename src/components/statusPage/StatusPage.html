@@ -1,0 +1,23 @@
+<div class="container-fluid">
+  <table id="allMessages" class="table table-sm table-hover table-striped">
+    <thead>
+      <tr>
+        <th>Sent</th>
+        <th>From</th>
+        <th>To</th>
+        <th>Text</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr 
+        v-for="(message, i) in messages"
+        :key="i"
+      >
+        <td>{{ formatTime(message.insertionDateTime) }}</th>
+        <td>{{ message.fromUserEmail }}</td>
+        <td>{{ message.toUserEmail }}</td>
+        <td>{{ message.message }}</td>
+      </tr>
+    </tbody>
+  </table>
+</div>

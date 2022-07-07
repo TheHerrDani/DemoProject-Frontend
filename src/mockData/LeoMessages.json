@@ -1,0 +1,81 @@
+{
+    "messages": [
+        {
+            "id": 0,
+            "message": "Hello Nora!",
+            "from": "leo@gmail.com",
+            "to": "norakrajla@email.com",
+            "insertionDate": "2022-05-22T21:38:53.422Z"
+        },
+        {
+            "id": 1,
+            "message": "Are you really Leonardo DiCaprio?",
+            "from": "norakrajla@gmail.com",
+            "to": "leo@email.com",
+            "insertionDate": "2022-05-22T21:38:59.984Z"
+        },
+        {
+            "id": 2,
+            "message": "sure",
+            "from": "leo@gmail.com",
+            "to": "norakrajla@email.com",
+            "insertionDate": "2022-05-22T21:43:41.367Z"
+        },
+        {
+            "id": 3,
+            "message": "why do you ask? Also could you transfer me $1000? I lost my card and can't get home.",
+            "from": "leo@gmail.com",
+            "to": "norakrajla@email.com",
+            "insertionDate": "2022-05-22T21:44:20.820Z"
+        },
+        {
+            "id": 4,
+            "message": "sure, but in exchange you have to invite me to your next premiere",
+            "from": "norakrajla@gmail.com",
+            "to": "leo@email.com",
+            "insertionDate": "2022-05-22T21:45:09.765Z"
+        },
+        {
+            "id": 5,
+            "message": "Will do! I will be ethernally grateful!",
+            "from": "leo@email.com",
+            "to": "norakrajla@gmail.com",
+            "insertionDate": "2022-05-22T21:46:08.053Z"
+        },
+        {
+            "id": 6,
+            "message": "And also invite me to your yacht!",
+            "from": "norakrajla@gmail.com",
+            "to": "leo@email.com",
+            "insertionDate": "2022-05-22T21:46:44.628Z"
+        },
+        {
+            "id": 7,
+            "message": "What yacht? You mean the Titanic?",
+            "from": "leo@email.com",
+            "to": "norakrajla@gmail.com",
+            "insertionDate": "2022-05-22T21:47:35.043Z"
+        },
+        {
+            "id": 8,
+            "message": "hmmm... I guess you are not really Leo. Anyways, tell hi to the Nigerian princes!",
+            "from": "norakrajla@gmail.com",
+            "to": "leo@email.com",
+            "insertionDate": "2022-05-22T21:48:06.952Z"
+        },
+        {
+            "id": 9,
+            "message": "Wait! I AM Leo!! Please send the money!",
+            "from": "leo@gmail.com",
+            "to": "norakrajla@email.com",
+            "insertionDate": "2022-05-22T21:57:37.677Z"
+        },
+        {
+            "id": 10,
+            "message": "Peeeeeeeealse!!!",
+            "from": "leo@gmail.com",
+            "to": "norakrajla@email.com",
+            "insertionDate": "2022-05-22T21:58:47.999Z"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+<div class="new-message">
+  <textarea
+    id="textarea"
+    v-model="newMessage"
+    v-on:keyup.enter="sendMessage()"
+    name="newMessage"
+  >
+  </textarea>
+
+  <div class="btn-area">
+    <b-button
+      v-show="isMessageSendAble"
+      variant="primary"
+      @click="sendMessage()"
+    >
+      <b-icon icon="envelope" />
+    </b-button>
+  </div>
+</div>

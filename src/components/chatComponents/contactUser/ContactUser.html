@@ -1,0 +1,7 @@
+<li class="user" :class="{selected: isThisSelectedUser(user)}" @click="selectUser()"> 
+  <div class="avatar" :style="{'background-color': generateBgColor}">{{ userInitial }}</div>
+  <div class="user-data">
+    <div class="user-name">{{ user.fullName }}</div>
+    <div class="user-email">{{ user.emailAddress }}</div>
+  </div>
+</li>

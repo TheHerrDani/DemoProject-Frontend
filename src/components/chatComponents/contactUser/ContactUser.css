@@ -1,0 +1,35 @@
+li.user {
+    display: flex;
+    align-items: center;
+    padding: 5px 10px;
+    border-radius: 0.25rem;
+}
+
+li.user.contact-list:hover {
+   background-color: #e6e6e6;
+}
+
+li.user.contact-list.selected {
+    background-color: #ECF3FF;
+}
+
+.avatar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 46px;
+    height: 46px;
+    border-radius: 100%;
+    color: #222;
+    font-size: 21px;
+}
+
+.user-data {
+    padding-left: 16px;
+    text-align: left;
+}
+
+.user-email {
+    font-size: 13px;
+    color: #888;
+}

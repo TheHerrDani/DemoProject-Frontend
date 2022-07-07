@@ -1,0 +1,25 @@
+.chat-view-container {
+  border-top: 1px solid #ced4da;
+  display: flex;
+  height: 100%;
+  overflow-y: hidden;
+}
+
+.chat-view-left {
+  background: #fafafa;
+  width: 30%;
+  min-width: 250px;
+  overflow-y: auto;
+}
+
+.chat-view-right {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  height: 100%;
+  flex-grow: 1;
+}
+
+.selected-chat-partner {
+  box-shadow: rgba(0, 0, 0, 0.2) 0px 0px 4px 0px;
+}

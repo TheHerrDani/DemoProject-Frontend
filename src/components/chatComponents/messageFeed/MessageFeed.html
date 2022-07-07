@@ -1,0 +1,13 @@
+<div class="message-feed">
+  <div class="messages" :key="compnentKey">
+    <div
+      v-for="message in messages"
+      :key="message.id"
+      class="message"
+      :class="getMessageClass(message.fromUserEmail)"
+    >
+      <div class="time">{{ formatTime(message.insertionDateTime) }}</div>
+      <div class="message-content">{{ message.message }}</div>
+    </div>
+  </div>
+</div>
